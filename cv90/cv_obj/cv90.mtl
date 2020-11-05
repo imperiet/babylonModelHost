@@ -1,0 +1,262 @@
+# 
+# Wavefront material file
+# Converted by the DEEP Exploration  Deep Exploration 6.5 x64 6.5.0.9182
+# Right Hemisphere, LTD
+# http://www.righthemisphere.com/
+# 
+
+newmtl _6___Default
+Ka 0 0 0
+Kd 0.75 0.75 0.75
+Ks 0 0 0
+illum 2
+Ns 2
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl _3___Default
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.43 0.43 0.43
+illum 2
+Ns 45.2548
+map_Kd textures\\body_Base_Color.png
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA textures\\body_Base_Color.png
+map_Ns 
+
+newmtl _6___Default0
+Ka 0 0 0
+Kd 0.109804 0.0862745 0.0784314
+Ks 0.43 0.43 0.43
+illum 2
+Ns 45.2548
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl _5___Default
+Ka 0 0 0
+Kd 0.443137 0.54902 0.133333
+Ks 0.43 0.43 0.43
+illum 2
+Ns 45.2548
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl _4___Default
+Ka 0 0 0
+Kd 0.207843 0.27451 0.145098
+Ks 0.43 0.43 0.43
+illum 2
+Ns 45.2548
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl _8___Default
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+illum 2
+Ns 2048
+map_Kd textures\\Free-Shipping-Car-Construction-Machinery-HID-Xenon-Spot-Square-Light-Lamp-Wholesale-Retail-CP251-.png
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA textures\\Free-Shipping-Car-Construction-Machinery-HID-Xenon-Spot-Square-Light-Lamp-Wholesale-Retail-CP251-.png
+map_Ns 
+
+newmtl _9___Default
+Ka 0 0 0
+Kd 0 0.141176 0.168627
+Ks 1 1 1
+illum 2
+Ns 2048
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl _0___Default
+Ka 0 0 0
+Kd 0.945098 0.243137 0
+Ks 1 1 1
+illum 2
+Ns 2048
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl wireframe_color_0x9AB9E5
+Ka 0.117647 0.117647 0.117647
+Kd 0.603922 0.72549 0.898039
+Ks 0.752941 0.752941 0.752941
+illum 2
+Ns 8
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl _1___Default
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.33 0.33 0.33
+illum 2
+Ns 2048
+map_Kd textures\\farspate.png
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA textures\\farspate.png
+map_Ns 
+
+newmtl _5___Default0
+Ka 0 0 0
+Kd 0.0392157 0.0392157 0.0392157
+Ks 0.25 0.25 0.25
+illum 2
+Ns 11.3137
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl _1___Default0
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+illum 2
+Ns 32
+map_Kd textures\\track_Base_Color.png
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS textures\\track_Metallic.png
+map_kA textures\\track_Base_Color.png
+map_Ns 
+
+newmtl _4___Default0
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.3 0.3 0.3
+illum 2
+Ns 42.2243
+map_Kd textures\\wheels_Base_Color.png
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA textures\\wheels_Base_Color.png
+map_Ns 
+
+newmtl Explorer_Default
+Ka 0.117647 0.117647 0.117647
+Kd 0.752941 0.752941 0.752941
+Ks 0.752941 0.752941 0.752941
+illum 2
+Ns 8
+map_Kd 
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 
+map_Ns 
+
+newmtl _2___Default
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.3 0.3 0.3
+illum 2
+Ns 42.2243
+map_Kd textures\\turret_Base_Color.png
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA textures\\turret_Base_Color.png
+map_Ns 
+
+newmtl _3___Default0
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.3 0.3 0.3
+illum 2
+Ns 42.2243
+map_Kd textures\\cannon_Base_Color.png
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA textures\\cannon_Base_Color.png
+map_Ns 
